@@ -81,3 +81,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# zajímalo by mě, jestli jde nějakým způsobem mít pěkný výstup CSV souboru jak v excelu, tak v githubu.
+# když použiju delimiter=',' - mám pěknou tabulku v githubu
+# když použiju delimiter=';' - mám pěkně přehledný excel
